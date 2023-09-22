@@ -25,6 +25,10 @@ a{
 }
 
 #header{
-    padding-top: 10px 0px 10px 0px;
+    display: flex;
+    margin-top: 10px;
 }
 
+a{
+    padding-right: 15px;
+}
