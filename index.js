@@ -46,3 +46,41 @@ function leituraArquivo(xml) {
 
     document.getElementById("tblAlunos7A").innerHTML = table;
 }
+
+//Modal
+
+function carregaModal(id){
+
+    // console.log(id);
+
+    $.ajax(url)
+    .done(function(){
+        console.log();
+
+       
+        $(estoque).find('').each(function(){
+
+            if ($(this).find('id').text() == id ){
+
+                console.log(id);
+                document.getElementById('').value = $(this).find('').text();
+
+                document.getElementById('').value = $(this).find('').text();
+
+                document.getElementById('').value = $(this).find('').text();
+
+                document.getElementById('').value = $(this).find('').text();
+
+                document.getElementById('').value = $(this).find('').text();
+                
+            }
+
+        })
+        
+    })
+    .fail(function(){
+        alert("Ocorreu um erro na leitura do arquivo XML")
+        console.log(url)
+    })
+  
+}
