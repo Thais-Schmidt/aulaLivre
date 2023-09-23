@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alunos>
+    <aluno>
+        <nome>João Silva</nome>
+        <dtNascimento>15/03/1999</dtNascimento>
+        <ra>789012</ra>
+        <hNotas>
+            <portugues>7.0</portugues>
+            <matematica>8.5</matematica>
+            <historia>6.0</historia>
+            <geografia>7.5</geografia>
+            <artes>9.0</artes>
+        </hNotas>
+        <statusMatricula>Ativo</statusMatricula>
+    </aluno>
+    <aluno>
+        <nome>Maria Santos</nome>
+        <dtNascimento>10/05/2001</dtNascimento>
+        <ra>456789</ra>
+        <hNotas>
+            <portugues>9.5</portugues>
+            <matematica>8.0</matematica>
+            <historia>7.0</historia>
+            <geografia>8.5</geografia>
+            <artes>9.0</artes>
+        </hNotas>
+        <statusMatricula>Ativo</statusMatricula>
+    </aluno>
+    <aluno>
+        <nome>Lucas Oliveira</nome>
+        <dtNascimento>20/11/2002</dtNascimento>
+        <ra>654321</ra>
+        <hNotas>
+            <portugues>8.0</portugues>
+            <matematica>7.5</matematica>
+            <historia>8.0</historia>
+            <geografia>7.0</geografia>
+            <artes>9.5</artes>
+        </hNotas>
+        <statusMatricula>Ativo</statusMatricula>
+    </aluno>
+    <aluno>
+        <nome>Ana Pereira</nome>
+        <dtNascimento>05/09/2003</dtNascimento>
+        <ra>987654</ra>
+        <hNotas>
+            <portugues>9.0</portugues>
+            <matematica>9.5</matematica>
+            <historia>7.5</historia>
+            <geografia>8.5</geografia>
+            <artes>9.0</artes>
+        </hNotas>
+        <statusMatricula>Ativo</statusMatricula>
+    </aluno>
+    <aluno>
+        <nome>Carla Fernandes</nome>
+        <dtNascimento>30/06/2000</dtNascimento>
+        <ra>123123</ra>
+        <hNotas>
+            <portugues>8.5</portugues>
+            <matematica>8.0</matematica>
+            <historia>6.5</historia>
+            <geografia>7.0</geografia>
+            <artes>8.5</artes>
+        </hNotas>
+        <statusMatricula>Ativo</statusMatricula>
+    </aluno>
+    <aluno>
+        <nome>Pedro Santos</nome>
+        <dtNascimento>12/12/2001</dtNascimento>
+        <ra>112233</ra>
+        <hNotas>
+            <portugues>9.5</portugues>
+            <matematica>9.0</matematica>
+            <historia>8.0</historia>
+            <geografia>8.5</geografia>
+            <artes>7.0</artes>
+        </hNotas>
+        <statusMatricula>Ativo</statusMatricula>
+    </aluno>
+    <aluno>
+        <nome>Larissa Lima</nome>
+        <dtNascimento>25/07/2002</dtNascimento>
+        <ra>998877</ra>
+        <hNotas>
+            <portugues>8.0</portugues>
+            <matematica>7.5</matematica>
+            <historia>6.5</historia>
+            <geografia>7.0</geografia>
+            <artes>8.0</artes>
+        </hNotas>
+        <statusMatricula>Ativo</statusMatricula>
+    </aluno>
+    <aluno>
+        <nome>Felipe Mendes</nome>
+        <dtNascimento>17/04/2003</dtNascimento>
+        <ra>135792</ra>
+        <hNotas>
+            <portugues>9.0</portugues>
+            <matematica>8.5</matematica>
+            <historia>7.0</historia>
+            <geografia>8.0</geografia>
+            <artes>9.5</artes>
+        </hNotas>
+        <statusMatricula>Ativo</statusMatricula>
+    </aluno>
+    <aluno>
+        <nome>Juliana Castro</nome>
+        <dtNascimento>22/08/2001</dtNascimento>
+        <ra>112233</ra>
+        <hNotas>
+            <portugues>8.5</portugues>
+            <matematica>9.0</matematica>
+            <historia>7.5</historia>
+            <geografia>8.5</geografia>
+            <artes>8.0</artes>
+        </hNotas>
+        <statusMatricula>Ativo</statusMatricula>
+    </aluno>
+    <aluno>
+        <nome>Carlos Ribeiro</nome>
+        <dtNascimento>03/03/2002</dtNascimento>
+        <ra>776655</ra>
+        <hNotas>
+            <portugues>9.5</portugues>
+            <matematica>9.0</matematica>
+            <historia>8.0</historia>
+            <geografia>8.5</geografia>
+            <artes>7.5</artes>
+        </hNotas>
+        <statusMatricula>Ativo</statusMatricula>
+    </aluno>
+</alunos>
